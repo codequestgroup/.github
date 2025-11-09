@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🚀 CodeQuest Collective
 
 > **A community of passionate developers collaborating on AI, DSA, and hackathon projects while learning and growing together as one team.**
