@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 CodeQuest Collective
 
 > **A community of passionate developers collaborating on AI, DSA, and hackathon projects while learning and growing together as one team.**
@@ -30,3 +31,6 @@ We believe in sharing knowledge, collaborating on ideas, and pushing the limits 
 ---
 
 > *CodeQuest Collective — Build. Learn. Innovate.*
+=======
+# .github
+>>>>>>> 735925f47c3d6c286ea3a822fd5279bb16fb9d7c
